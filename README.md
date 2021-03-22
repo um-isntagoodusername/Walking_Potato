@@ -1,2 +1,2 @@
 # Walking Potato
-Animation of a walking potato.
+ASCII animation of a walking potato using python.
