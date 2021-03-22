@@ -1,2 +1,3 @@
 # Walking Potato
 ASCII animation of a walking potato using python.
+And yes, that is supposed to be a potato...
