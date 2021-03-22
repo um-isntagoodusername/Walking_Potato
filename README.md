@@ -1,2 +1,2 @@
-# Walking_Potato
+# Walking Potato
 Animation of a walking potato.
